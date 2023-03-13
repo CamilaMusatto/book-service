@@ -35,3 +35,7 @@ spring:
     schemas: book_service
     user: root
     password: 123456
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
